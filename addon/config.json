@@ -1,0 +1,11 @@
+{
+  "daily_goal": 100,
+  "hud": true,
+  "hud_position": "bar",
+  "hud_toasts": true,
+  "deck_panel": true,
+  "deck_panel_compact": false,
+  "toolbar_button": true,
+  "sounds": true,
+  "reduce_motion": false
+}
